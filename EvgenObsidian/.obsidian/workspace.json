@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "bff2a40f65aed196",
+    "type": "split",
+    "children": [
+      {
+        "id": "f724344c59fe5818",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9b211a67322363ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian-storage/Dunice Academy/БАЗОВЫЙ СЕРВЕР/Base Server ALL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cd7237f68c0de40b",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b8f9bb91a50062f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "69f3eee77f2b0036",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e80994eadca2f850",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2d82d4c0752420de",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 457.5
+  },
+  "right": {
+    "id": "16eb269e2c4a01e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "53f6510139635195",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f665b908d5fbc19",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Obsidian-storage/Dunice Academy/БАЗОВЫЙ СЕРВЕР/Base Server ALL.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "60f4b036248e572a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Obsidian-storage/Dunice Academy/БАЗОВЫЙ СЕРВЕР/Base Server ALL.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d6011f5d051e3f61",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "064fcecb03a8010e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Obsidian-storage/Dunice Academy/БАЗОВЫЙ СЕРВЕР/Base Server ALL.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "69f3eee77f2b0036",
+  "lastOpenFiles": [
+    "37. Как взять подстроку строки. Как обрезать лишние пробелы в начале и в конце строки. Как поменять регистр строки. Как разделить строку по символу.md",
+    "Без названия.canvas",
+    "2024-04-29.md",
+    "1. Рефлексия. что это, как можно применять.md",
+    "Obsidian-storage/Dunice Academy/БАЗОВЫЙ СЕРВЕР/Base Server ALL.md",
+    "Obsidian-storage/Dunice Academy/БАЗОВЫЙ СЕРВЕР/SQL practice 1.md",
+    "Obsidian-storage/Dunice Academy/_Trainees/Батурина Анастасия/Батурина (Продвинутый шарп).md",
+    "Obsidian-storage/Dunice Academy/Вопросы/Card4 Продвинутый сервер на ASP.NET Core.md",
+    "Obsidian-storage/Dunice Academy/_Trainees/_Feedback templates/СТАЖЕР (Продвинутый шарп).md",
+    "Obsidian-storage/Dunice Academy/_Trainees/_Feedback templates/СТАЖЕР (Продвинутый сервер).md",
+    "Dunice Academy/ПРОДВИНУТЫЙ СЕРВЕР/4. Что такое дамп базы данных. Как можно сделать дамп базы PostgreSQL и как можно его развернуть.md",
+    "Dunice Academy/ПРОДВИНУТЫЙ СЕРВЕР/3. Что такое индексы в базе данных. Для чего они нужны.md",
+    "Dunice Academy/ПРОДВИНУТЫЙ СЕРВЕР",
+    "Dunice Academy",
+    "Obsidian-storage/Dunice Academy/Вопросы/Card3 Базовый сервер на ASP.NET Core.md",
+    "gRPC.md",
+    "Obsidian-storage/Dunice Academy/Вопросы/Card2. Продвинутый шарп.md",
+    "Obsidian-storage/КОНСПЕКТЫ/СЕРВЕР/Assets/OSI.png",
+    "Obsidian-storage/КОНСПЕКТЫ/СЕРВЕР/Assets/TCPIP.png",
+    "Obsidian-storage/КОНСПЕКТЫ/СЕРВЕР/PROTOCOLS/TLS, SSL.md",
+    "Obsidian-storage/КОНСПЕКТЫ/СЕРВЕР/PROTOCOLS/SOAP.md",
+    "Obsidian-storage/КОНСПЕКТЫ/СЕРВЕР/PROTOCOLS/HTTP.md",
+    "Obsidian-storage/КОНСПЕКТЫ/СЕРВЕР/Эталонная модель TCP IP.md",
+    "Obsidian-storage/КОНСПЕКТЫ/СЕРВЕР/PROTOCOLS/HTTPS.md",
+    "Obsidian-storage/КОНСПЕКТЫ/СЕРВЕР/Клиент-серверная архитектура.md",
+    "Obsidian-storage/Dunice Academy/БАЗОВЫЙ СЕРВЕР/Без названия.md",
+    "Obsidian-storage/КОНСПЕКТЫ/СЕРВЕР/PROTOCOLS/TCP, UDP.md",
+    "Obsidian-storage/КОНСПЕКТЫ/СЕРВЕР/Assets/Снимок экрана 2024-04-08 173631.png",
+    "Obsidian-storage/КОНСПЕКТЫ/СЕРВЕР/Assets/Снимок экрана 2024-04-08 164708.png",
+    "Obsidian-storage/КОНСПЕКТЫ/СЕРВЕР/Эталонная модель OSI.md",
+    "Obsidian-storage/Dunice Academy/ПРОДВИНУТЫЙ ШАРП/Reflection practice.md",
+    "Obsidian-storage/Dunice Academy/Вопросы/Card1 Базовый C шарп.md",
+    "Obsidian-storage/SEVERSTAL/ДОСТУПЫ/Assets/pki.stalcom.png",
+    "Obsidian-storage/SEVERSTAL/ДОСТУПЫ/Assets/OldSerts.png",
+    "Obsidian-storage/SEVERSTAL/ДОСТУПЫ/Assets/ActualCerts.png",
+    "Obsidian-storage/КОНСПЕКТЫ/СЕРВЕР/SQL/Assets/2024-01-11_11-46.png",
+    "Obsidian-storage/КОНСПЕКТЫ/СЕРВЕР/SQL/Assets/2024-01-12_10-01.png",
+    "Obsidian-storage/КОНСПЕКТЫ/СЕРВЕР/SQL/Assets/2024-01-11_12-49.png",
+    "Obsidian-storage/МАТРИЦА/Junior/С1/Customer Focus + SDM",
+    "Obsidian-storage/МАТРИЦА/Junior/С1/CS L0 (check & revise)",
+    "Obsidian-storage/МАТРИЦА/Junior/С1",
+    "Obsidian-storage/МАТРИЦА/Junior",
+    "Obsidian-storage/МАТРИЦА",
+    "Obsidian-storage/КОНСПЕКТЫ/СЕРВЕР/SQL/Создание таблиц. Связи между таблицами",
+    "Obsidian-storage/КОНСПЕКТЫ/СЕРВЕР/SQL/Основные запросы SELECT",
+    "Obsidian-storage/КОНСПЕКТЫ/СЕРВЕР/SQL/Assets",
+    "Без названия 1.canvas"
+  ]
+}
