@@ -367,7 +367,7 @@ public IActionResult MyResultAction()
     };
 
     return Ok(result); // 200 OK
-    return StatusCode(500, valie: "message");
+    return StatusCode(500, value: "message");
 }
 ```
 
