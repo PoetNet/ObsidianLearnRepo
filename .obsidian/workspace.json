@@ -4,31 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "fc08dfd150012548",
+        "id": "4b92dfbd8a77d40a",
         "type": "tabs",
         "children": [
           {
-            "id": "d041e229e05f9c0c",
+            "id": "e63e3d59e1b017c7",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Books/Общеобразовательные/Компьютерные сети/client-server-computing.pdf"
-              }
-            }
-          },
-          {
-            "id": "cbf531eeb9659277",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Books/Общеобразовательные/Грокаем машинное обучение.pdf"
+                "file": "Work-Useful/Background Services.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -86,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 385.5
+    "width": 304.5
   },
   "right": {
     "id": "6a5b541e052d11c9",
@@ -102,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/Общеобразовательные/Грокаем машинное обучение.pdf",
+                "file": "Work-Useful/Background Services.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books/Общеобразовательные/Грокаем машинное обучение.pdf",
+                "file": "Work-Useful/Background Services.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/Общеобразовательные/Грокаем машинное обучение.pdf"
+                "file": "Work-Useful/Background Services.md"
               }
             }
           }
@@ -155,53 +146,53 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Меню быстрого перехода": false,
-      "graph:Граф": false,
-      "templates:Вставить шаблон": false,
-      "canvas:Создать новый холст": false,
-      "daily-notes:Сегодняшняя заметка": false,
-      "command-palette:Открыть палитру команд": false,
-      "terminal:Open terminal": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "cbf531eeb9659277",
+  "active": "fb7cdc6540c6f928",
   "lastOpenFiles": [
-    "Books/CSharp + .NET/Внедрение_зависимостей_на_платформе_NET_.pdf",
-    "Books/CSharp + .NET/Документация Microsoft .NET.pdf",
-    "Books/CSharp + .NET/Справочник по языку C#.pdf",
-    "Books/CSharp + .NET/Паттерны и архитектура/Паттерны проектирования на платформе .NET Тепляков.pdf",
-    "Books/Общеобразовательные/Компьютерные сети",
     "Books/Общеобразовательные/Программируй & типизируй. С примерами на TypeScript - Влад Ришкуция.pdf",
-    "Books/Общеобразовательные/Алгоритмы",
-    "Books/Общеобразовательные/Алгоритмы/Grokaem_Algoritmi_IIllystrirovanoe_posobie_dlia_programmsitov_2017.pdf",
-    "Books/Общеобразовательные/Алгоритмы/Aditya-Bhargava-Grokking-Algorithms_-An-Illustrated-Guide-for-Programmers-and-Other-Curious-People-2016-Manning-Publications-libgen.lc_.pdf",
+    "Books/CSharp + .NET/Библиотеки и фреймворки/Entity Framework Core в действии 2023.pdf",
+    "Books/CSharp + .NET/Документация Microsoft .NET.pdf",
+    "Books/CSharp + .NET/Паттерны и архитектура/Погружение в паттерны проектирования.pdf",
+    "Books/Общеобразовательные/Компьютерные сети/Kompyuternye_seti.pdf",
+    "Books/CSharp + .NET/Паттерны и архитектура/NET-Microservices-Architecture-for-Containerized-NET-Applications.pdf",
+    "Books/CSharp + .NET/C10_и_NET6_Современная_кроссплатформенная_разработка_2023__Марк_Прайс.pdf",
+    "Books/CSharp + .NET/Паттерны и архитектура/Паттерны проектирования на платформе .NET Тепляков.pdf",
     "Books/Общеобразовательные/Грокаем машинное обучение.pdf",
-    "Books/Общеобразовательные/Kapanoglu_Sedat_Koder_s_ulicy._Pravila_narushat_rekomenduetsya_Litmir_club_840022_original_a559e.pdf",
-    "Books/Без названия.md",
+    "Books/CSharp + .NET/Паттерны и архитектура/[EN] NET-Microservices-Architecture-for-Containerized-NET-Applications.pdf",
+    "Books/CSharp + .NET/CLR via C#. Рихтер.pdf",
+    "Untitled.canvas",
     "Подготовка к собеседованиям/Must have/1. Вопросы на собеседовании для Senior .NET Developer.md",
-    "Подготовка к собеседованиям/Must have/1.1 📌 Must.md",
+    "Work-Useful/Background Services.md",
+    "Work-Useful/Collections.md",
+    "Work-Useful/DateTime.md",
+    "Work-Useful/БД/ClickHouse/Clickhouse & Docker.md",
+    "Work-Useful/БД/1. Оконные функции.md",
+    "Work-Useful/Attributes.md",
+    "Work-Useful/Enums.md",
+    "Work-Useful/Daily/28.05 Regex in Tests.md",
+    "Work-Useful/Daily/27.05.24.md",
+    "Work-Useful/БД/ClickHouse/Загрузка тестовых данных в Docker контейнер.md",
+    "Work-Useful/БД/ClickHouse/Clickhouse & Docker (2).md",
+    "Work-Useful/GIT/Create and use SSH key in Windows.md",
+    "Work-Useful/GIT/Create and use SSH key in Windows (2).md",
+    "Work-Useful/Daily/27.05.24 (3).md",
+    "Work-Useful/Daily/27.05.24 (2).md",
+    "Work-Useful/БД/ClickHouse/Движки и тд при создании таблицы (2).md",
+    "Work-Useful/ClickHouse/Движки и тд при создании таблицы.md",
+    "Books/CSharp + .NET/1. LowCardinality.md",
+    "Темы и технологии/GIT/История коммитов.md",
+    "Темы и технологии/GIT/Как пройтись по всей ветке и заменить имя и email автора на другой email и имя.md",
+    "Подготовка к собеседованиям/Must have/1.3 ��‍�� Could.md",
     "Подготовка к собеседованиям/Must have/1.3 👨‍🏫 Could.md",
     "Подготовка к собеседованиям/Must have/1.2 🎓 Should.md",
-    "Подготовка к собеседованиям/Must have/Ссылки/Антипаттерны в программировании и проектировании архитектуры.md",
-    "Подготовка к собеседованиям/Must have/Ссылки/RoadMap для .NET Core разработчиков.md",
-    "Подготовка к собеседованиям/Must have/Ссылки/Вопросы на собеседовании.md",
-    "Подготовка к собеседованиям/Must have/Ссылки/Чеклист для разработчиков по подготовке к техническому собеседованию.md",
-    "Подготовка к собеседованиям/Must have/Ссылки/Как правильно проходить технические интервью.md",
-    "Подготовка к собеседованиям/Must have/[Вопросы на собеседовании.md",
-    "EvgenObsidian/Dunice Academy/ПРОДВИНУТЫЙ ШАРП/LINQ Practice.md",
-    "Templates/Book Template.md",
-    "README.md",
-    "EvgenObsidian/КОНСПЕКТЫ/GIT/Терминология.md",
-    "EvgenObsidian/КОНСПЕКТЫ/GIT/Создание тегов.md",
-    "EvgenObsidian/КОНСПЕКТЫ/GIT/Первичная настройка.md",
-    "EvgenObsidian/КОНСПЕКТЫ/GIT/Отмена коммитов.md",
-    "EvgenObsidian/КОНСПЕКТЫ/GIT/Отмена изменений.md",
-    "EvgenObsidian/КОНСПЕКТЫ/GIT/История коммитов.md",
-    "EvgenObsidian/КОНСПЕКТЫ/dotNET/Жизненный цикл объектов в шарпе.md",
-    "EvgenObsidian/КОНСПЕКТЫ/dotNET/Ключевые слова var, ref, dynamic.md",
-    "EvgenObsidian/КОНСПЕКТЫ/dotNET/Миграции баз данных..md",
-    "EvgenObsidian/КОНСПЕКТЫ/dotNET/Отличия Minimal API от MVC, их плюсы и минусы.md",
-    "EvgenObsidian/КОНСПЕКТЫ/dotNET/Подключение существующей БД PostgreSQL в проект.md",
+    "Подготовка к собеседованиям/Must have/1.1 �� Must.md",
     "EvgenObsidian/Без названия.canvas",
     "EvgenObsidian/ПУТЬ ДУШНИЛЫ/Assets/Снимок экрана 2024-03-25 110616.png",
     "Cache/Pasted image 20240427142542.png"
