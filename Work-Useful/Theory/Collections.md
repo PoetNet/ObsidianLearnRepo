@@ -15,3 +15,18 @@
             }
         }
     }```
+
+2. Получение значения или default:
+```csharp
+    public List<Function> this[int depth] => _components.GetValueOrDefault(depth, []);
+
+```
+
+3. Перебор сразу двух коллекций в foreach
+```csharp
+var col1Andcol2 = collection1.Zip(col2);
+foreach (var (c1, c2) in col1Andcol2)
+{
+//...
+}
+```

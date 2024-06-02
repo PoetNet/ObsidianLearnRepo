@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work-Useful/Background Services.md",
+                "file": "Work-Useful/Theory/Collections.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work-Useful/Background Services.md",
+                "file": "Work-Useful/Theory/Collections.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work-Useful/Background Services.md",
+                "file": "Work-Useful/Theory/Collections.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work-Useful/Background Services.md"
+                "file": "Work-Useful/Theory/Collections.md"
               }
             }
           }
@@ -154,28 +154,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fb7cdc6540c6f928",
+  "active": "e63e3d59e1b017c7",
   "lastOpenFiles": [
-    "Books/Общеобразовательные/Программируй & типизируй. С примерами на TypeScript - Влад Ришкуция.pdf",
-    "Books/CSharp + .NET/Библиотеки и фреймворки/Entity Framework Core в действии 2023.pdf",
-    "Books/CSharp + .NET/Документация Microsoft .NET.pdf",
-    "Books/CSharp + .NET/Паттерны и архитектура/Погружение в паттерны проектирования.pdf",
     "Books/Общеобразовательные/Компьютерные сети/Kompyuternye_seti.pdf",
+    "Untitled.canvas",
+    "Work-Useful/Theory/Collections.md",
     "Books/CSharp + .NET/Паттерны и архитектура/NET-Microservices-Architecture-for-Containerized-NET-Applications.pdf",
     "Books/CSharp + .NET/C10_и_NET6_Современная_кроссплатформенная_разработка_2023__Марк_Прайс.pdf",
+    "Books/CSharp + .NET/Документация Microsoft .NET.pdf",
     "Books/CSharp + .NET/Паттерны и архитектура/Паттерны проектирования на платформе .NET Тепляков.pdf",
-    "Books/Общеобразовательные/Грокаем машинное обучение.pdf",
-    "Books/CSharp + .NET/Паттерны и архитектура/[EN] NET-Microservices-Architecture-for-Containerized-NET-Applications.pdf",
-    "Books/CSharp + .NET/CLR via C#. Рихтер.pdf",
-    "Untitled.canvas",
+    "Work-Useful/Theory/Background Services.md",
+    "Work-Useful/Theory/Build.md",
+    "Work-Useful/Theory/Concurrent.md",
+    "README.md",
+    "Work-Useful/Theory/Algorithms.md",
+    "Work-Useful/Theory/Attributes.md",
+    "Work-Useful/Theory",
+    "Books/CSharp + .NET/Внедрение_зависимостей_на_платформе_NET_.pdf",
+    "Books/CSharp + .NET/CSharp.12.and.NET.8.9781837635870.EBooksWorld.ir.pdf",
+    "Books/CSharp + .NET/Справочник по языку C#.pdf",
+    "Books/Общеобразовательные/Алгоритмы/Grokaem_Algoritmi_IIllystrirovanoe_posobie_dlia_programmsitov_2017.pdf",
+    "Books/CSharp + .NET/Библиотеки и фреймворки/ASP.Net Core в действии 2021.pdf",
     "Подготовка к собеседованиям/Must have/1. Вопросы на собеседовании для Senior .NET Developer.md",
-    "Work-Useful/Background Services.md",
-    "Work-Useful/Collections.md",
-    "Work-Useful/DateTime.md",
+    "Work-Useful/Theory/DateTime.md",
     "Work-Useful/БД/ClickHouse/Clickhouse & Docker.md",
     "Work-Useful/БД/1. Оконные функции.md",
-    "Work-Useful/Attributes.md",
-    "Work-Useful/Enums.md",
+    "Work-Useful/Theory/Enums.md",
     "Work-Useful/Daily/28.05 Regex in Tests.md",
     "Work-Useful/Daily/27.05.24.md",
     "Work-Useful/БД/ClickHouse/Загрузка тестовых данных в Docker контейнер.md",
@@ -189,10 +193,6 @@
     "Books/CSharp + .NET/1. LowCardinality.md",
     "Темы и технологии/GIT/История коммитов.md",
     "Темы и технологии/GIT/Как пройтись по всей ветке и заменить имя и email автора на другой email и имя.md",
-    "Подготовка к собеседованиям/Must have/1.3 ��‍�� Could.md",
-    "Подготовка к собеседованиям/Must have/1.3 👨‍🏫 Could.md",
-    "Подготовка к собеседованиям/Must have/1.2 🎓 Should.md",
-    "Подготовка к собеседованиям/Must have/1.1 �� Must.md",
     "EvgenObsidian/Без названия.canvas",
     "EvgenObsidian/ПУТЬ ДУШНИЛЫ/Assets/Снимок экрана 2024-03-25 110616.png",
     "Cache/Pasted image 20240427142542.png"
