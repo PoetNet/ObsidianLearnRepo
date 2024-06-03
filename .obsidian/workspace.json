@@ -11,12 +11,24 @@
             "id": "e63e3d59e1b017c7",
             "type": "leaf",
             "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Books/CSharp + .NET/Stiven_Kliri_Konkurentnost_v_C_Asinkhronnoe_parallelnoe_i_mnogopotochnoe.pdf"
+              }
+            }
+          },
+          {
+            "id": "bfcec15348f8e35e",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Work-Useful/Theory/Collections.md",
+                "file": "Books/CSharp + .NET/Конкурентность в Csharp.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ]
@@ -93,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work-Useful/Theory/Collections.md",
+                "file": "Books/CSharp + .NET/Stiven_Kliri_Konkurentnost_v_C_Asinkhronnoe_parallelnoe_i_mnogopotochnoe.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work-Useful/Theory/Collections.md",
+                "file": "Books/CSharp + .NET/Stiven_Kliri_Konkurentnost_v_C_Asinkhronnoe_parallelnoe_i_mnogopotochnoe.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work-Useful/Theory/Collections.md"
+                "file": "Books/CSharp + .NET/Stiven_Kliri_Konkurentnost_v_C_Asinkhronnoe_parallelnoe_i_mnogopotochnoe.pdf"
               }
             }
           }
@@ -154,27 +166,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e63e3d59e1b017c7",
+  "active": "fb7cdc6540c6f928",
   "lastOpenFiles": [
-    "Books/Общеобразовательные/Компьютерные сети/Kompyuternye_seti.pdf",
-    "Untitled.canvas",
+    "Work-Useful/Theory/Concurrent.md",
+    "Books/CSharp + .NET/Конкурентность в Csharp.md",
+    "Books/CSharp + .NET/Stiven_Kliri_Konkurentnost_v_C_Asinkhronnoe_parallelnoe_i_mnogopotochnoe.pdf",
     "Work-Useful/Theory/Collections.md",
-    "Books/CSharp + .NET/Паттерны и архитектура/NET-Microservices-Architecture-for-Containerized-NET-Applications.pdf",
-    "Books/CSharp + .NET/C10_и_NET6_Современная_кроссплатформенная_разработка_2023__Марк_Прайс.pdf",
-    "Books/CSharp + .NET/Документация Microsoft .NET.pdf",
-    "Books/CSharp + .NET/Паттерны и архитектура/Паттерны проектирования на платформе .NET Тепляков.pdf",
+    "Материалы из книг",
+    "Books/CSharp + .NET/CSharp.12.and.NET.8.9781837635870.EBooksWorld.ir.pdf",
+    "Books/CSharp + .NET/Библиотеки и фреймворки/ASP.Net Core в действии 2021.pdf",
+    "Books/CSharp + .NET/Справочник по языку C#.pdf",
+    "Books/CSharp + .NET/Внедрение_зависимостей_на_платформе_NET_.pdf",
+    "Books/Общеобразовательные/Программируй & типизируй. С примерами на TypeScript - Влад Ришкуция.pdf",
+    "Books/Общеобразовательные/Алгоритмы/Grokaem_Algoritmi_IIllystrirovanoe_posobie_dlia_programmsitov_2017.pdf",
+    "Books/CSharp + .NET/Паттерны и архитектура/Погружение в паттерны проектирования.pdf",
+    "Books/CSharp + .NET/Библиотеки и фреймворки/Entity Framework Core в действии 2023.pdf",
+    "Untitled.canvas",
     "Work-Useful/Theory/Background Services.md",
     "Work-Useful/Theory/Build.md",
-    "Work-Useful/Theory/Concurrent.md",
     "README.md",
     "Work-Useful/Theory/Algorithms.md",
     "Work-Useful/Theory/Attributes.md",
-    "Work-Useful/Theory",
-    "Books/CSharp + .NET/Внедрение_зависимостей_на_платформе_NET_.pdf",
-    "Books/CSharp + .NET/CSharp.12.and.NET.8.9781837635870.EBooksWorld.ir.pdf",
-    "Books/CSharp + .NET/Справочник по языку C#.pdf",
-    "Books/Общеобразовательные/Алгоритмы/Grokaem_Algoritmi_IIllystrirovanoe_posobie_dlia_programmsitov_2017.pdf",
-    "Books/CSharp + .NET/Библиотеки и фреймворки/ASP.Net Core в действии 2021.pdf",
     "Подготовка к собеседованиям/Must have/1. Вопросы на собеседовании для Senior .NET Developer.md",
     "Work-Useful/Theory/DateTime.md",
     "Work-Useful/БД/ClickHouse/Clickhouse & Docker.md",
@@ -192,7 +204,6 @@
     "Work-Useful/ClickHouse/Движки и тд при создании таблицы.md",
     "Books/CSharp + .NET/1. LowCardinality.md",
     "Темы и технологии/GIT/История коммитов.md",
-    "Темы и технологии/GIT/Как пройтись по всей ветке и заменить имя и email автора на другой email и имя.md",
     "EvgenObsidian/Без названия.canvas",
     "EvgenObsidian/ПУТЬ ДУШНИЛЫ/Assets/Снимок экрана 2024-03-25 110616.png",
     "Cache/Pasted image 20240427142542.png"
