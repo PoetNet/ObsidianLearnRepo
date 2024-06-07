@@ -11,9 +11,11 @@
             "id": "e63e3d59e1b017c7",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Books/CSharp + .NET/Stiven_Kliri_Konkurentnost_v_C_Asinkhronnoe_parallelnoe_i_mnogopotochnoe.pdf"
+                "file": "Work-Useful/Theory/Concurrent.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -30,8 +32,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "8c3d6c9dfeed2f99",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work-Useful/Theory/Реализации кэша в .NET.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -60,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "path:\"Work-Useful/\" ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +100,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -105,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/CSharp + .NET/Stiven_Kliri_Konkurentnost_v_C_Asinkhronnoe_parallelnoe_i_mnogopotochnoe.pdf",
+                "file": "Work-Useful/Theory/Реализации кэша в .NET.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books/CSharp + .NET/Stiven_Kliri_Konkurentnost_v_C_Asinkhronnoe_parallelnoe_i_mnogopotochnoe.pdf",
+                "file": "Work-Useful/Theory/Реализации кэша в .NET.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/CSharp + .NET/Stiven_Kliri_Konkurentnost_v_C_Asinkhronnoe_parallelnoe_i_mnogopotochnoe.pdf"
+                "file": "Work-Useful/Theory/Реализации кэша в .NET.md"
               }
             }
           }
@@ -166,12 +182,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fb7cdc6540c6f928",
+  "active": "3e5d26885d81455c",
   "lastOpenFiles": [
+    "Work-Useful/Theory/().md",
+    "Work-Useful/Theory/Реализации кэша в .NET.md",
+    "Work-Useful/Theory/Exceptions.md",
+    "Work-Useful/Theory/Attributes.md",
+    "Work-Useful/Theory/Build.md",
+    "Work-Useful/БД/ClickHouse/Clickhouse & Docker.md",
+    "Подготовка к собеседованиям/Must have/1.2 �� Should.md",
+    "Подготовка к собеседованиям/Must have/1.1 �� Must.md",
+    "Work-Useful/Theory/Algorithms.md",
+    "Work-Useful/Theory/Background Services.md",
+    "Work-Useful/Theory/Collections.md",
+    "Work-Useful/Theory/DateTime.md",
+    "Work-Useful/Theory/Enums.md",
     "Work-Useful/Theory/Concurrent.md",
     "Books/CSharp + .NET/Конкурентность в Csharp.md",
+    "Work-Useful/БД/1. Оконные функции.md",
     "Books/CSharp + .NET/Stiven_Kliri_Konkurentnost_v_C_Asinkhronnoe_parallelnoe_i_mnogopotochnoe.pdf",
-    "Work-Useful/Theory/Collections.md",
     "Материалы из книг",
     "Books/CSharp + .NET/CSharp.12.and.NET.8.9781837635870.EBooksWorld.ir.pdf",
     "Books/CSharp + .NET/Библиотеки и фреймворки/ASP.Net Core в действии 2021.pdf",
@@ -182,16 +211,8 @@
     "Books/CSharp + .NET/Паттерны и архитектура/Погружение в паттерны проектирования.pdf",
     "Books/CSharp + .NET/Библиотеки и фреймворки/Entity Framework Core в действии 2023.pdf",
     "Untitled.canvas",
-    "Work-Useful/Theory/Background Services.md",
-    "Work-Useful/Theory/Build.md",
     "README.md",
-    "Work-Useful/Theory/Algorithms.md",
-    "Work-Useful/Theory/Attributes.md",
     "Подготовка к собеседованиям/Must have/1. Вопросы на собеседовании для Senior .NET Developer.md",
-    "Work-Useful/Theory/DateTime.md",
-    "Work-Useful/БД/ClickHouse/Clickhouse & Docker.md",
-    "Work-Useful/БД/1. Оконные функции.md",
-    "Work-Useful/Theory/Enums.md",
     "Work-Useful/Daily/28.05 Regex in Tests.md",
     "Work-Useful/Daily/27.05.24.md",
     "Work-Useful/БД/ClickHouse/Загрузка тестовых данных в Docker контейнер.md",
@@ -200,10 +221,6 @@
     "Work-Useful/GIT/Create and use SSH key in Windows (2).md",
     "Work-Useful/Daily/27.05.24 (3).md",
     "Work-Useful/Daily/27.05.24 (2).md",
-    "Work-Useful/БД/ClickHouse/Движки и тд при создании таблицы (2).md",
-    "Work-Useful/ClickHouse/Движки и тд при создании таблицы.md",
-    "Books/CSharp + .NET/1. LowCardinality.md",
-    "Темы и технологии/GIT/История коммитов.md",
     "EvgenObsidian/Без названия.canvas",
     "EvgenObsidian/ПУТЬ ДУШНИЛЫ/Assets/Снимок экрана 2024-03-25 110616.png",
     "Cache/Pasted image 20240427142542.png"
