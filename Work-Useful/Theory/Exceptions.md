@@ -1,7 +1,42 @@
-1. Error CS8801 Cannot use local variable or local function 'shiftProvider' declared in a top-level statement in this context. 
 
-Ошибка CS8801 говорит о том, что переменная или функция, объявленная на верхнем уровне (вне класса или метода), используется в контексте, где это не допускается. В данном случае это относится к переменной `shiftProvider`.
+1. System.Threading.LockRecursionException: 'Recursive write lock acquisitions not allowed in this mode.'
+- Комментарий тимлида: "Из-за того, что ты lock два раза взял"
+Yказывает на проблему с повторным входом в блокировку. Ошибка возникает, когда `ReaderWriterLockSlim` пытается захватить блокировку записи, пока уже захвачена блокировка чтения, или наоборот, в той же нити выполнения. В вашем случае проблема связана с тем, что вы пытаетесь войти в блокировку чтения в `finally` блоке, что не требуется и приводит к ошибке.
 
-Эта ошибка возникает, потому что `shiftProvider` используется в методе `SomeMethod`, но не определена в пределах этого метода. Поскольку переменная `shiftProvider` не объявлена внутри метода, компилятор не может найти её.
+```csharp
+    private List<SomeComponent> _components = new List<SomeComponent>();
+    public IReadOnlyList<SomeComponent> Components
+    {
+        get
+        {
+            _lock.EnterReadLock();
+            try
+            {
+	            // Solution of the problem
+                return _components.AsReadOnly(); 
+            }
+            finally
+            {
+                _lock.EnterReadLock();
+            }
+        }
+        private set
+        {
+            _lock.EnterWriteLock();
+            try
+            {
+                _components = value.ToList();
+            }
+            finally
+            {
+                _lock.ExitWriteLock();
+            }
+        }
+    }
+    
+```
 
-Чтобы исправить эту ошибку, нужно объявить и инициализировать `shiftProvider` внутри метода ``shiftProvider`` или передать её как параметр метода.
+Решение: 
+```csharp
+private readonly ReaderWriterLockSlim _lock = new(LockRecursionPolicy .SupportsRecursion);
+``` 
